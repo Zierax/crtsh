@@ -18,8 +18,8 @@
 
 <p>Clone the repository and install dependencies:</p>
 
-<pre><code>git clone https://github.com/yourusername/subdomain-finder.git
-cd subdomain-finder
+<pre><code>git clone https://github.com/Zierax/crtsh.git
+cd crtsh
 pip install -r requirements.txt
 </code></pre>
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 <h2>Example</h2>
 
-<pre><code>python3 subdomain_finder.py -d google.com -r -w</code></pre>
+<pre><code>python3 crtsh.py -d google.com -r -w</code></pre>
 
 <h2>License</h2>
 
