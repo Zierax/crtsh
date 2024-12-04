@@ -1,10 +1,10 @@
-<h1>Python Subdomain Finder</h1>
+<h1>crtsh</h1>
 
 <p>A command-line tool to find subdomains using crt.sh API.</p>
 
 <h2>Usage</h2>
 
-<pre><code>python3 subdomain_finder.py -d example.com [-r] [-w]</code></pre>
+<pre><code>python3 crtsh.py -d example.com [-r] [-w]</code></pre>
 
 <h2>Options</h2>
 
